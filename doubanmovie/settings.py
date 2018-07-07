@@ -21,7 +21,7 @@ DOWNLOADER_MIDDLEWARES = {
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'doubanmovie (+http://www.yourdomain.com)'
 
-FEED_URI = '/Users/cxc/PycharmProjects/doubanmovie/final.csv'
+FEED_URI = '/Users/cxc/PycharmProjects/doubanmovie/abc.csv'
 FEED_FORMAT = 'CSV'
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
